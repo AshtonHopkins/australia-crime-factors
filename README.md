@@ -36,14 +36,11 @@ australia-crime-factors/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/australia-crime-factors.git
+   git clone https://github.com/AshtonHopkins/australia-crime-factors.git
    cd australia-crime-factors
    ```
-2. Install dependencies (if using Python):
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open notebooks in `notebooks/` to explore the analysis.
+2. Open the relevant R scripts in `scripts/` or R Markdown files in `notebooks/`.
+3. Datasets are stored in `data/processed/` and are ready to use.
 
 ## Contributing
 

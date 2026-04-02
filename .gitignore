@@ -1,28 +1,12 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
-venv/
-env/
-.env
-
-# Jupyter
-.ipynb_checkpoints/
-
 # R
 .Rhistory
 .RData
 .Rproj.user/
+*.Rproj
 
-# Data files (large or sensitive — add exceptions as needed)
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.feather
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+# R output (regenerable)
+*.html
+*.pdf
 
 # OS
 .DS_Store
